@@ -1,0 +1,58 @@
+CONFLUENCIA
+Cómo leer un proyecto minero
+Guía editorial inicial · Noviembre de 2026
+confluencia.do
+
+PROPÓSITO
+Organizar preguntas, localizar documentos y hacer visible la información que todavía falta. Esta guía no establece conclusiones sobre un proyecto específico.
+
+EL PROYECTO Y SU TERRITORIO
+Registra el nombre, promotor, ubicación, coordenadas disponibles y fase descrita. Revisa la fecha de cada fuente. Identifica por separado propuestas, solicitudes, decisiones emitidas y actividades ejecutadas.
+
+AGUA Y USOS EXISTENTES
+Busca la descripción de la cuenca, fuentes de abastecimiento, estudios de calidad y cantidad del agua, usos comunitarios y medidas propuestas de prevención y seguimiento. Anota qué documento sustenta cada afirmación.
+
+ESTUDIOS, DECISIONES Y CONDICIONES
+Localiza los estudios ambientales y las decisiones oficiales disponibles. Registra quién emite cada documento, su alcance, fecha, condiciones y anexos. Si falta un documento, deja constancia del vacío y de la institución a la que puede solicitarse.
+
+COMUNIDADES Y PARTICIPACIÓN
+Recoge preguntas y conocimiento del territorio con autorización de quienes los aportan. Identifica convocatorias, actas y respuestas publicadas. No publiques datos personales ni testimonios que no hayan sido autorizados.
+
+FUENTES QUE SE PUEDAN CONTRASTAR
+Separa documentos oficiales, informes del promotor, estudios independientes y testimonios. Una fuente empresarial comunica la posición de la empresa; su inclusión no representa una validación de sus conclusiones.
+
+SEGUIMIENTO DE LO PENDIENTE
+Por cada pregunta, registra la fuente consultada, lo que se encontró, qué falta verificar y la fecha de revisión. Actualiza el expediente cuando aparezca nueva evidencia.
+
+FICHA DE REVISIÓN
+Caso:
+Pregunta:
+Documento o fuente:
+Autor o institución:
+Fecha y versión:
+Enlace:
+Hallazgo documentado:
+Interpretación o hipótesis:
+Qué falta verificar:
+Próxima revisión:
+
+FUENTES PARA EMPEZAR
+Dirección General de Minería: Catastro minero
+https://mapageneral.mineria.gob.do/Site/
+
+Dirección General de Minería: Mapa y listado de derechos mineros
+https://mineria.gob.do/mapas-de-concesiones/mapa-general-de-derechos-mineros/
+
+INDRHI: Atlas de los recursos hídricos
+https://indrhi.gob.do/atlas-los-recursos-hidricos-de-rd/
+
+EITI República Dominicana: Transparencia del registro y catastro minero
+https://eitird.mem.gob.do/informe-eiti-rd/otorgamiento-de-derechos/principios-de-otorgamiento/transparencia-del-registro-y-catastro-minero/
+
+SAIP: Solicitudes de acceso a información pública
+https://saip.gob.do/
+
+GoldQuest: Proyecto Romero (fuente de la empresa)
+https://www.goldquestcorp.com/projects/romero
+
+Las fechas y condiciones de los documentos deben revisarse en sus fuentes originales. La inclusión de estos enlaces no confirma el estado actual ni la viabilidad de un proyecto.

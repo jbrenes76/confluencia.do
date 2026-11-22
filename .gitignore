@@ -1,0 +1,9 @@
+# The static site in dist/ is the source and must stay tracked.
+node_modules/
+.wrangler/
+.openai/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+exports/

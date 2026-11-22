@@ -1,0 +1,22 @@
+CONFLUENCIA — CRÉDITOS DE RECURSOS
+
+FOTOGRAFÍA
+Archivo: hero-river.webp
+Obra original: Rio Yaque del Norte - Jarabacoa.JPG
+Autor: Starus
+Fecha de la fotografía: 16 de marzo de 2008
+Fuente: https://commons.wikimedia.org/wiki/File:Rio_Yaque_del_Norte_-_Jarabacoa.JPG
+Licencia elegida: Creative Commons Attribution-ShareAlike 3.0 Unported
+https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: reducción de resolución, compresión WebP y recorte visual en la composición web.
+La versión adaptada de esta fotografía conserva la licencia CC BY-SA 3.0.
+La fotografía muestra el Yaque del Norte cerca de Jarabacoa; no corresponde al proyecto Romero.
+
+TIPOGRAFÍAS
+DM Sans y DM Serif Display
+Distribuidas bajo SIL Open Font License 1.1.
+Licencias completas: OFL-DM-Sans.txt y OFL-DM-Serif-Display.txt
+Origen de los archivos tipográficos: Google Fonts.
+
+DISEÑO
+Símbolo de confluencia e iconos: vectores originales preparados para este proyecto.
